@@ -2,7 +2,7 @@
 # Ubuntu 14.04 with activiti Dockerfile
 #
 # Pull base image.
-FROM dockerfile/java
+FROM java:7
 MAINTAINER Frank Wang "eternnoir@gmail.com"
 
 EXPOSE 8080
