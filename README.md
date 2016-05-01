@@ -1,3 +1,5 @@
+[![](https://imagelayers.io/badge/exolyte/activiti:latest.svg)](https://imagelayers.io/?images=exolyte/activiti:latest 'Get your own badge on imagelayers.io')
+
 # Table of Contents
 - [Introduction](#introduction)
     - [Version](#version)
