@@ -1,4 +1,4 @@
-[![](https://imagelayers.io/badge/exolyte/activiti:latest.svg)](https://imagelayers.io/?images=exolyte/activiti:latest 'Get your own badge on imagelayers.io')
+[![](http://badge-imagelayers.iron.io/exolyte/activiti:latest.svg)](http://imagelayers.iron.io/?images=exolyte/activiti:latest 'Get your own badge on imagelayers.iron.io')
 
 # Table of Contents
 - [Introduction](#introduction)
